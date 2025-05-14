@@ -19,7 +19,7 @@ The following project analyzes labour force inactivity trends in Canada using op
 -Identify key insights in economic inactivity patterns.<br> 
 -Make labour data more accessible and understandable for public and professional use.<br> 
 
-Visualizations<br>  
+## Visualizations<br>  
 -Labour force status breakdown (Employed, Unemployed, Not in Labour Force)<br> 
 -Annual trends and comparisons<br> 
 -Regional inactivity rates<br> 
