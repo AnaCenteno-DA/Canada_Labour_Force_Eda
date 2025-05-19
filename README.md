@@ -1,40 +1,40 @@
-# Labour_Market_Exit_Annual
+# Analysis of Inactivity Trends in the Canadian Labour Market
 
-## Introduction<br> 
-The following project analyzes labour force inactivity trends in Canada using open data provided by Statistics Canada. The dataset covers the number of individuals employed, unemployed, or not in the labour force, along with metrics like the unemployment rate and participation rate. The goal is to create insightful visualizations using Power BI to better understand regional and temporal labour market trends.<br>
+## Introduction
+This project analyzes inactivity trends in the Canadian labour market using open data provided by Statistics Canada. The dataset covers the number of people employed, unemployed, or not in the labour force, as well as indicators such as the unemployment rate and participation rate. The goal is to create relevant visualizations using Power BI to better understand regional and temporal labour market trends.
 
-## Dataset Information:<br> 
--Source: Statistics Canada<br> 
--Title: Labour Force Characteristics, Annual, Inactive Federal<br> 
--Record Modified: Jan 24, 2025<br> 
--Record Released: Jan 25, 2021<br> 
--Publisher: Statistics Canada<br> 
--Formats: CSV XML HTML<br> 
--Keywords: employment, unemployment, labour force, participation rate, regional labour markets, municipal data<br> 
+## Dataset Information
+- **Source**: Statistics Canada
+- **Title**: Labour Force Characteristics, Annual, Inactive
+- **Last data update**: January 24, 2025
+- **Publication date**: January 25, 2021
+- **Publisher**: Statistics Canada
+- **Available formats**: CSV, XML, HTML
+- **Keywords**: employment, unemployment, labour force, participation rate, regional labour markets, municipal data
 
+## Objectives
+- Analyze trends in labour force inactivity across years and regions.
+- Visualize data on employment, unemployment, and participation.
+- Identify key insights in economic inactivity patterns.
+- Make labour market data more accessible and understandable for the public and professionals.
 
-## Objectives:<br> 
--Analyze trends in labour force inactivity across years and regions.<br> 
--Visualize employment, unemployment, and participation data.<br> 
--Identify key insights in economic inactivity patterns.<br> 
--Make labour data more accessible and understandable for public and professional use.<br> 
+## Planned Visualizations
+- Labour market status breakdown (Employed, Unemployed, Not in the labour force)
+- Annual trends and comparisons
+- Regional inactivity rates
+- Participation and unemployment rate trends
 
-## Visualizations<br>  
--Labour force status breakdown (Employed, Unemployed, Not in Labour Force)<br> 
--Annual trends and comparisons<br> 
--Regional inactivity rates<br> 
--Participation and unemployment rate trends<br> 
+## Tools and Technologies
+- **Power BI**
+- **Open data from Statistics Canada**
+- **Data format**: CSV
 
-## Tools and tecnologies<br> 
--Power BI<br> 
--Open data from Statistic Canada<br> 
--CSV data format<br> 
+## Steps to Run the Project
+To run this project:
+1. Download the dataset from the Statistics Canada website (CSV format).
+2. Open the `PowerBI_Report.pbix` file in Power BI Desktop.
+3. Refresh the data or modify the visualizations as needed.
 
-## Steps to follow<br> 
-To run this project:<br> 
--Download the dataset from Statistics Canada (CSV format).<br> 
--Open the PowerBI_Report.pbix file in Power BI Desktop.<br> 
--Refresh the data or modify visuals as needed.<br> 
+## License
+This project uses open government data under the **Open Government Licence – Canada**.
 
-## License<br> 
--This project uses open government data under the Open Government Licence – Canada.<br> 
