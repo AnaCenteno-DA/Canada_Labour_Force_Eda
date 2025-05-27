@@ -13,7 +13,7 @@ The following project analyzes labour force inactivity trends in Canada using op
 -Keywords: employment, unemployment, labour force, participation rate, regional labour markets, municipal data<br> 
 
 
-## Objectives:<br> 
+## 🎯 Objectives:<br> 
 -Analyze trends in labour force inactivity across years and regions.<br> 
 -Visualize employment, unemployment, and participation data.<br> 
 -Identify key insights in economic inactivity patterns.<br> 
