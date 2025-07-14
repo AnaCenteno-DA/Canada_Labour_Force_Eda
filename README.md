@@ -1,4 +1,4 @@
-# Labour_Market_Exit_Annual
+# Canada Labour Force - EDA
 
 ## Introduction<br> 
 The following project analyzes labour force inactivity trends in Canada using open data provided by Statistics Canada. The dataset covers the number of individuals employed, unemployed, or not in the labour force, along with metrics like the unemployment rate and participation rate. The goal is to create insightful visualizations using Power BI to better understand regional and temporal labour market trends.<br>
